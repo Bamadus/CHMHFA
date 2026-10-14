@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1004290314541",
+    "project_id": "chmhfa-app-1bb22",
+    "storage_bucket": "chmhfa-app-1bb22.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1004290314541:android:38ed214b2fbd8d9cef83a4",
+        "android_client_info": {
+          "package_name": "com.example.chmhfa_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBk3I2rGK0hv-PbWLxRh3w7zmo7MUL7E1I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
